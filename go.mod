@@ -9,7 +9,7 @@ require (
 	github.com/kisielk/gotool v1.0.0 // indirect
 	golang.org/x/lint v0.0.0-20181026193005-c67002cb31c3
 	golang.org/x/net v0.0.0-20180826012351-8a410e7b638d
-	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
+	golang.org/x/oauth2 v0.0.0-20181203165126-d668ce993890
 	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f // indirect
 	golang.org/x/sys v0.0.0-20180830151530-49385e6e1522
 	golang.org/x/text v0.3.0 // indirect
