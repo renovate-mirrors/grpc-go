@@ -7,7 +7,7 @@ require (
 	github.com/golang/mock v1.1.1
 	github.com/golang/protobuf v1.2.0
 	github.com/kisielk/gotool v1.0.0 // indirect
-	golang.org/x/lint v0.0.0-20181026193005-c67002cb31c3
+	golang.org/x/lint v0.0.0-20181217175646-8f45f776aaf1
 	golang.org/x/net v0.0.0-20180826012351-8a410e7b638d
 	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
 	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f // indirect
